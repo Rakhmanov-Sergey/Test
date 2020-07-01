@@ -1,5 +1,5 @@
-package main
+package TestP
 
-func main(){
+func TestA(){
 
 }
