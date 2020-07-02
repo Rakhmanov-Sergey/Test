@@ -1,5 +1,5 @@
 package TestP
 
-func TestB(){
+func TestBest(){
 
 }
